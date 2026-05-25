@@ -1,0 +1,36 @@
+.side-hidden #side {
+  display: none !important;
+}
+
+.side-hidden div.x5yr21d:nth-child(4) {
+  display: none !important;
+}
+
+.side-hidden [role="main"],
+.side-hidden ._aigv {
+  flex: 0 0 100% !important;
+  max-width: 100% !important;
+}
+
+.side-hidden .x1fe8iih > button:nth-child(1) {
+  background-color: rgba(0, 168, 132, 0.2) !important;
+  border-radius: 50%;
+}
+.side-hidden #app *,
+.side-hidden .two * {
+  border-left: none !important;
+  border-left-width: 0px !important;
+  border-right: none !important;
+  border-right-width: 0px !important;
+  box-shadow: none !important;
+}
+
+.side-hidden #app *::before,
+.side-hidden #app *::after,
+.side-hidden .two *::before,
+.side-hidden .two *::after {
+  display: none !important;
+  content: none !important;
+  background: none !important;
+  border: none !important;
+}
