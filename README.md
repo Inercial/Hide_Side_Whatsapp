@@ -13,10 +13,18 @@ A lightweight browser extension designed to optimize your workspace by allowing 
 
 ## Installation
 
-1. Download or clone this repository to your local machine.
-2. Open your browser's extensions management page (`chrome://extensions` for Chromium-based browsers or `about:debugging` for Firefox).
-3. Enable **Developer mode**.
-4. Click on **Load unpacked** (or **Load Temporary Add-on**) and select the root folder of this project.
+### For Google Chrome Users
+1. Download the project as a `.zip` file by clicking the green **"<> Code"** button at the top of this GitHub page.
+2. Open your Google Chrome extensions page (`chrome://extensions/`) and enable **Developer mode** (top right toggle).
+3. Drag and drop the downloaded `.zip` file directly into the Chrome window. That's it!
+
+### For Firefox Users
+1. Download and unzip the project folder from GitHub.
+2. Open Firefox and go to the **Extensions Management** page (`about:addons`).
+3. Click the **gear icon** (Settings) at the top right.
+4. Select **Debug Add-ons** (or *Debugging*).
+5. Click on **Load Temporary Add-on...**
+6. Select the `manifest.json` file inside the unzipped folder. Done!
 
 ## Usage
 

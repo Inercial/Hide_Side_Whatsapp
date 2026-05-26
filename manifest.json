@@ -2,6 +2,9 @@
   "manifest_version": 3,
   "name": "WhatsApp Full Width",
   "version": "0.1",
+  "icons": {
+    "48": "assets/icon.png"
+  },
   "content_scripts": [
     {
       "matches": [
